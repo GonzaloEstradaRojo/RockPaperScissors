@@ -13,9 +13,9 @@ numPieces = 30
 frameRate = 10
 run = True
 screen = pygame.display.set_mode((width, height))
-SCISSORS = "scissors.png"
-PAPER = "paper.png"
-ROCK = "rock.png"
+SCISSORS = "icons/scissors.png"
+PAPER = "icons/paper.png"
+ROCK = "icons/rock.png"
 
 pygame.init()
 
